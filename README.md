@@ -7,5 +7,3 @@
   Essa atividade tem como objetivo aprender a commitar um arquivo para o github.
 
   Teste de clonagem 
-
-  Teste de revert
